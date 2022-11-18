@@ -1,6 +1,6 @@
-# DE1-Term1
+# Data Engineering 1 Term 1 project
 
-Data Engineering 1 Term 1 project
+Student ID: 2200147
 
 This repository consists of one folder named Term1. 
 
