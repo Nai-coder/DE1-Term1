@@ -11,4 +11,4 @@ Term1 in turn contains the following folders:
 
 The data was downloaded using the World Bank APIs, accessed through the Postman software. The project report was written using LaTeX. All SQL scripts were created on a MySQL Workbench.
 
-The project deadline is November 19th, midnight.
+The project deadline is November 19th, midnight CET.
